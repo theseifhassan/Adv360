@@ -1,0 +1,8 @@
+{
+  "name": "Adv360 Pro ZMK Firmware",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": "."
+  },
+  "install": "./.cursor/install.sh"
+}
