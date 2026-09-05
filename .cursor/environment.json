@@ -1,8 +1,8 @@
 {
   "name": "Adv360 Pro ZMK Firmware",
+  "user": "ubuntu",
   "build": {
-    "dockerfile": "Dockerfile",
-    "context": "."
+    "dockerfile": "Dockerfile"
   },
   "install": "./.cursor/install.sh"
 }
